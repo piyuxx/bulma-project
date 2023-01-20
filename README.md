@@ -1,5 +1,5 @@
 # Bulma Coffee
-A simple coffee website built with html,bulmaand little bit javascript
+A simple coffee website built with html,bulma and little bit javascript
 
 # Inspiration
 I wanted to learn how to make websites using Bulma framework. Instead of inventing an website, I wanted to try and see how hard would it be to implement one of my favourite coffee websites: (https://www.youtube.com/watch?v=mR6kNv83or0&list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a&index=15). Full credits for user experience goes to them.
